@@ -1,0 +1,126 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 9,
+    "fields": {
+      "name": "Телевизоры",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 10,
+    "fields": {
+      "name": "Музыкальные центры",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 11,
+    "fields": {
+      "name": "Плееры",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 12,
+    "fields": {
+      "name": "Ноутбуки",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 13,
+    "fields": {
+      "name": "увлажнители воздуха",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 14,
+    "fields": {
+      "name": "Утюги",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 15,
+    "fields": {
+      "name": "фены",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 16,
+    "fields": {
+      "name": "Утюги",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 17,
+    "fields": {
+      "name": "Телефоны",
+      "description": null
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "name": "Фунай",
+      "description": "телевизор 55 дюймов",
+      "photo": "",
+      "category": 9,
+      "price": "100000.00",
+      "created": "2023-12-21T06:58:29.102Z",
+      "update": "2023-12-21T06:58:29.102Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+      "name": "Сони",
+      "description": "музыкальный центр с радио и дисками",
+      "photo": "",
+      "category": 10,
+      "price": "10000.00",
+      "created": "2023-12-21T06:58:29.104Z",
+      "update": "2023-12-21T06:58:29.104Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 6,
+    "fields": {
+      "name": "Dell",
+      "description": "yjen,er 16/256",
+      "photo": "",
+      "category": 12,
+      "price": "75000.00",
+      "created": "2023-12-21T06:58:29.105Z",
+      "update": "2023-12-21T06:58:29.105Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Harier",
+      "description": " NEW музыкальный центр ",
+      "photo": "",
+      "category": 10,
+      "price": "33500.00",
+      "created": "2023-12-21T06:58:29.104Z",
+      "update": "2023-12-21T06:58:29.104Z"
+    }
+  }
+]
